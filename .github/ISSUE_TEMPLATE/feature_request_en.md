@@ -1,6 +1,6 @@
 ---
 name: 🍭 Feature Request
-about: Submit a new feature request
+about: RSS for Instagram #hashtag
 ---
 
 <!--
@@ -9,7 +9,9 @@ Otherwise the issue will be closed immediately.
 -->
 
 ### What feature is it?
-
+Use RSShub to create rss feeds from #hashtag instagram
 ### What problem does this feature solve?
-
+The instagram #hashtag is public, so you don't need permission
 ### Additional description
+Preferably the rss could classified the posts from the most recent to older ones.
+The command line could be as this example https://rsshub.app/instagram/tag/sportcars
